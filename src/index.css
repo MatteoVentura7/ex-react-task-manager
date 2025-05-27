@@ -20,3 +20,15 @@
   color: white;
   font-weight: bold;
 }
+
+td.todo {
+  background-color: red;
+}
+
+td.done {
+  background-color: green;
+}
+
+td.doing {
+  background-color: yellow;
+}
